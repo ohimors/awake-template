@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ohimors/awake-template is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [Showdown](https://github.com/coreyti/showdown) – Javascript Utilities & Libraries
@@ -21,11 +22,13 @@ ohimors/awake-template is built on the following main stack:
 - [Animate.css ](https://animate.style/) – Front-End Frameworks
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ohimors/awake-template is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Showdown'/> [Showdown](https://github.com/coreyti/showdown) – Javascript Utilities & Libraries
@@ -45,14 +48,15 @@ ohimors/awake-template is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/9195/default_5aa00f79c6648507ba5f6c66c130a832332e5adc.png' alt='Animate.css '/> [Animate.css ](https://animate.style/) – Front-End Frameworks
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ohimors/awake-template](https://github.com/ohimors/awake-template)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|48<br/>Tools used|11/13/23 <br/>Report generated|
+|47<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -234,9 +238,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (29)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (28)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (29)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (28)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -261,10 +265,9 @@ Full tech stack [here](/techstack.md)
 |[md5](https://www.npmjs.com/md5)|v2.2.1|07/02/19|Daniel Kelly |BSD-3-Clause|N/A|
 |[ncp](https://www.npmjs.com/ncp)|v2.0.0|07/02/19|Daniel Kelly |MIT|N/A|
 |[node-sass](https://www.npmjs.com/node-sass)|v4.13.1|04/14/20|Daniel Kelly |MIT|[CVE-2020-24025](https://github.com/advisories/GHSA-r8f7-9pfq-mjmv) (Moderate)|
-|[nuxt](https://www.npmjs.com/nuxt)|v2.12.2|05/07/20|Daniel Kelly |MIT|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v2.7.1|07/17/19|Daniel Kelly |ISC|N/A|
 |[sass-loader](https://www.npmjs.com/sass-loader)|v7.1.0|04/14/20|Daniel Kelly |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.22.1|04/14/20|Daniel Kelly |Apache-2.0|[CVE-2022-29256](https://github.com/advisories/GHSA-gp95-ppv5-3jc5) (Moderate)|
+|[sharp](https://www.npmjs.com/sharp)|v0.22.1|04/14/20|Daniel Kelly |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)<br/>[CVE-2022-29256](https://github.com/advisories/GHSA-gp95-ppv5-3jc5) (Moderate)|
 |[url-parse](https://www.npmjs.com/url-parse)|v1.4.7|07/24/19|Daniel Kelly |MIT|[CVE-2022-0686](https://github.com/advisories/GHSA-hgjh-723h-mx2j) (Critical)<br/>[CVE-2022-0512](https://github.com/advisories/GHSA-rqff-837h-mm52) (Moderate)<br/>[CVE-2021-27515](https://github.com/advisories/GHSA-9m6j-fcg5-2442) (Moderate)<br/>[CVE-2022-0691](https://github.com/advisories/GHSA-jf5r-8hm2-f872) (Moderate)<br/>[CVE-2021-3664](https://github.com/advisories/GHSA-hh27-ffr2-f2jc) (Moderate)<br/>[CVE-2022-0639](https://github.com/advisories/GHSA-8v38-pw62-9cw2) (Moderate)|
 |[vue](https://www.npmjs.com/vue)|v2.6.11|07/02/19|Daniel Kelly |MIT|N/A|
 |[vue-server-renderer](https://www.npmjs.com/vue-server-renderer)|v2.6.11|04/14/20|Daniel Kelly |MIT|N/A|
@@ -273,4 +276,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
