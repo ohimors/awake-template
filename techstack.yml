@@ -2,7 +2,7 @@ repo_name: ohimors/awake-template
 report_id: 3c282ece1075d57232145ae56208c5c7
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:47:40+00:00'
+timestamp: '2024-02-29T18:41:48+00:00'
 requested_by: danielkellyio
 provider: github
 branch: master
@@ -136,7 +136,7 @@ tools:
   last_updated_by: Daniel Kelly
   last_updated_on: 2019-07-02 01:53:03.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.18.2
   license: MIT
